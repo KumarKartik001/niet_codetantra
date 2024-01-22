@@ -10,7 +10,7 @@ reading only, for writing only etc.
 
 ◻ The mode argument is a mandatory argument
 
-◻ If we do not specify any path the file is assumed to be in the current
+✅ If we do not specify any path the file is assumed to be in the current
 directory
 
 ## Q2
